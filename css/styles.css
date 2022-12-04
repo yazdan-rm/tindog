@@ -148,6 +148,10 @@ p{
    #title{
       text-align: center;
    }
+  
+  #title .container-fluid{
+  padding: 3% 7% 7%;
+}
 
   .title-image{
     transform: rotate(0);
